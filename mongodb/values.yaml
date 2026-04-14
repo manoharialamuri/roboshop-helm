@@ -1,4 +1,4 @@
 deployment:
   replicas: "1"
   imageName: "manohari07/mongodb"
-  imageVersion: "1:0.0"
+  imageVersion: "1.0.0"
